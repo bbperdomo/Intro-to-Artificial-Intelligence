@@ -8,6 +8,8 @@ Classic searching algorithms and concepts: BFS,DFS,A* MinMax, uninformed vs info
 
 Genetic algorithm implementations
 
-Basic Machine learning algorithms and libraries
+Data Science tools/ libraries: Pandas, numpy
 
-Basic Deep learning libraries
+Basic Machine learning algorithms and libraries: Scikit-learn, KNN, classifiers, cross validation
+
+Basic Deep learning libraries: Tensorflow, Keras
